@@ -1,0 +1,12 @@
+beautifulsoup4
+requests
+streamlit
+pyngrok
+keras
+tensorflow
+scikit-learn
+numpy
+pickle
+pickle-mixin
+joblib
+
