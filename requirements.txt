@@ -6,7 +6,6 @@ keras
 tensorflow
 scikit-learn
 numpy
-pickle
 pickle-mixin
 joblib
 
